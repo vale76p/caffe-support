@@ -2,7 +2,7 @@
 title: Supporto · Support
 ---
 
-# Caffè
+# Supporto · Support
 
 [Italiano](#italiano) · [English](#english) · [Privacy](privacy.html)
 
